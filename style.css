@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(152, 209, 247);
+  }
+  
+  .app {
+    background-color: rgb(111, 191, 245);
+    border-style: initial;
+    border-radius: 20px;
+    max-width: 500px;
+    height: 467px;
+    width: auto;
+    font-family: 'Courier New';
+    font-weight: 700;
+  }
+  
+  .weather {
+    padding-left: 70px;
+    padding-top: 20px;
+  }
+  
+  input {
+    background-color: rgb(163, 207, 236);
+    border-color: rgb(54, 165, 240);
+    border-radius: 1ch;
+    height: 25px;
+  }
+  
+  button {
+    background-color: rgb(163, 207, 236);
+    border-color: rgb(54, 165, 240);
+    border-radius: 1ch;
+    height: 25px;
+  }
+  
+  table,
+  th,
+  td {
+    margin-top: 30px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 250px;
+    height: 50px;
+    text-align: center;
+  }
